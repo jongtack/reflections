@@ -2,8 +2,17 @@ What happens when you initialize a repository? Why do you need to do it?
  - .git 디렉토리가 생기고 그 안에 metadata 파일이 생김.
  - 이력 관리를 위한 메타 정보가 저장될 디렉토리를 만들기 위해.
 
- How is the staging area different from the working directory and the repository? What value do you think it offers?
-  - staging area는 working directory와 repository의 중간 단계.
-  - working directory의 파일 중 repository에 commit할 파일들을 선별하여 올려놓는 곳이 staging area이다.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ - staging area는 working directory와 repository의 중간 단계.
+ - working directory의 파일 중 repository에 commit할 파일들을 선별하여 올려놓는 곳이 staging area이다.
+
+How can you use the staging area to make sure you have one commit per logical change?
+ - working directory에서 여러 개의 작업을 동시에 하더라도, 하나의 logical change만 staging area에 올려놓고, 이를 commit함.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ - 새로운 기능을 실험적으로 넣거나, 새로운 릴리즈를 위해 분기할 때 사용.
+
+How do the diagrams help you visualize the branch structure?
+ - 다이어그램 덕분에 브랜치 구조를 이해하기 용이하다.
 
 
