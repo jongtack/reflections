@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+ - .git 디렉토리가 생기고 그 안에 metadata 파일이 생김.
+ - 이력 관리를 위한 메타 정보가 저장될 디렉토리를 만들기 위해.
+
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+  - staging area는 working directory와 repository의 중간 단계.
+  - working directory의 파일 중 repository에 commit할 파일들을 선별하여 올려놓는 곳이 staging area이다.
+
+
