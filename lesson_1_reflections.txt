@@ -1,0 +1,17 @@
+The diff only shows a newly added (or deleted) parts in the new version.
+
+We can see the change log and undo the change if needed.
+
+장점: 하나의 논리적 단위로 커밋을 구분할 수 있다.
+단점: 로컬에 장애 발생하는 경우 작업한 내용을 날릴 수 있다.
+
+하나의 논리적 단위 수정에는 여러 파일이 관련돼 있기 때문이다.
+
+git log: commit log를 보여준다.
+git diff commit_id1 commit_id2: commit_id1과 commit_id2 사이의 diff를 보여준다.
+
+VCS는 변경 이력을 저장하고 있어, 작업 중 버그 있을 경우 어느 변경에서 이 버그가 처음 출현했는지 탐색을 가능하게 한다.
+
+로컬의 작업 내용을 원격 저장소에 푸쉬하는 방법을 알고 싶다.
+
+
