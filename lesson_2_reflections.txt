@@ -15,4 +15,6 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
  - 다이어그램 덕분에 브랜치 구조를 이해하기 용이하다.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ - 두 브랜치의 작업 내용을 합칠 수 있다.
 
