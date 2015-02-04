@@ -18,3 +18,5 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
  - 두 브랜치의 작업 내용을 합칠 수 있다.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ - 자동으로 merge할 수 있는 부분은 자동으로 해 주면 편리하다. 그러나 사용자가 의도치 않은 방향으로 merge될 수 있기 때문에 애매한 경우에는 수동 merge가 필요하다.
