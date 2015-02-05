@@ -12,4 +12,11 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 - remote의 최신 상태를 local에도 계속 유지하므로써, local의 작업 내용이 최신 상태를 바탕으로 돌아갈 수 있게 함.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- 내가 작업한 내용을 diff로 떠서 메일로 보냄.
+  단점: 작업 log를 일목요연하게 관리하기가 어려움.
+  장점: 복잡한 프로세스가 필요 없음.
+
+
+
 
