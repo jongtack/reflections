@@ -3,3 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 - 로컬에는 원격 저장소와 다르게 내가 작업한 내용이 있을 수 있기 때문.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- fork: 다른 사람의 github repo에서 나의 github repo로 clone.
+  clone: 원격 repo를 로컬 repo로, 로컬 repo를 또 다른 로컬 repo로 clone.
+  branch: 하나의 repo 내에서 분기.
