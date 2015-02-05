@@ -17,6 +17,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   단점: 작업 log를 일목요연하게 관리하기가 어려움.
   장점: 복잡한 프로세스가 필요 없음.
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- master에 문제를 일으키지 않으면서 새로운 기능, 버그 픽스 등의 작업을 하려고 할 때.
+  
 
 
