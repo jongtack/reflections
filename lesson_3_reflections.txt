@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- 다른 사람들과 공동으로 작업할 때, 다른 컴퓨터에서 작업할 때.
